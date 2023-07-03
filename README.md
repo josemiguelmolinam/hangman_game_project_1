@@ -1,12 +1,12 @@
-# Juego del Ahorcado
+#  Hangman Game
 
-El juego del ahorcado es un clásico juego de adivinanzas en el que debes adivinar una palabra oculta letra por letra antes de que se complete el dibujo de un ahorcado.
+The Hangman Game is a classic guessing game where you have to guess a hidden word letter by letter before the drawing of a hanged person is completed.
 
-## Cómo jugar
+## How to play:
 
-1. Ingresa una letra en el campo de texto y presiona el botón "Comprobar".
-2. Si la letra ingresada está presente en la palabra oculta, se mostrará en su posición correspondiente en la palabra. Si no, perderás un intento.
-3. Continúa ingresando letras hasta adivinar la palabra completa o hasta que se completen todos los intentos.
-4. Si adivinas la palabra antes de agotar todos los intentos, ganas el juego. Si no, pierdes el juego.
+Enter a letter in the text field and press the "Check" button.
+If the entered letter is present in the hidden word, it will be shown in its corresponding position in the word. If not, you will lose a try.
+Continue entering letters until you guess the complete word or until all the tries are exhausted.
+If you guess the word before using up all the tries, you win the game. If not, you lose the game.
 
-¡Diviértete jugando al ahorcado!
+Have fun playing Hangman!
